@@ -1,2 +1,3 @@
 # Fernandez-Guerrico_WBER2023_Replication_Files
-Coming soon
+See README.pdf for information on data sources.
+Scripts and data will be uploaded soon.
